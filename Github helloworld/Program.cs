@@ -9,7 +9,7 @@ namespace Github_helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("github");
+            Console.WriteLine("github good");
             Console.ReadKey();
         }
     }
